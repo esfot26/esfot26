@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-"Soy un apasionado del desarrollo web, enfocado en aprender<br> y crecer continuamente en un entorno que impulse la innovación y el aprendizaje colaborativo. Creo en el valor de la tecnología como herramienta para resolver problemas y mejorar la vida de las personas,y me comprometo a trabajar de manera ética y responsable en cada proyecto. Para mí, el trabajo en equipo es clave, ya que permite la sinergia de habilidades, fomenta el respeto por las ideas de otros y genera resultados sólidos y creativos. Busco integrarme en equipos donde la comunicación y el apoyo mutuo sean fundamentales para el éxito colectivo."
+"Soy un apasionado del desarrollo web, enfocado en aprender  y crecer continuamente en un entorno que impulse la innovación y el aprendizaje colaborativo. Creo en el valor de la tecnología como herramienta para resolver problemas y mejorar la vida de las personas,y me comprometo a trabajar de manera ética y responsable en cada proyecto. Para mí, el trabajo en equipo es clave, ya que permite la sinergia de habilidades, fomenta el respeto por las ideas de otros y genera resultados sólidos y creativos. Busco integrarme en equipos donde la comunicación y el apoyo mutuo sean fundamentales para el éxito colectivo."
 
 
 ## 🌐 Redes sociales:
